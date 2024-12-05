@@ -1,7 +1,3 @@
-console.log('Server Side Javascript is called!')
-
-
-
 const weatherForm = document.querySelector('form')
 const selectedLocation = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
